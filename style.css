@@ -7,10 +7,11 @@ body {
     display: flex-end;
     flex-direction: column;
     background-image: url(vote.JPG);
+    overflow: scroll;
   }
 
 nav {
-    background-color: rgb(247, 243, 243);
+    background-color: white;
     padding: .4rem;
     font-size: 1rem;
 }  
@@ -19,7 +20,9 @@ ul {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    list-style-type: none;    
   }
+
 
   .top-left {
     position: absolute;
@@ -27,4 +30,8 @@ ul {
     left: 16px;
   }
   
-
+nav ul li a{
+  position: relative;
+  text-decoration: none;
+  color: black  
+}
