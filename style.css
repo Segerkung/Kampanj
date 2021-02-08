@@ -10,6 +10,8 @@ body {
     overflow: scroll;
   }
 
+
+
 nav {
     background-color: white;
     padding: .4rem;
@@ -29,6 +31,13 @@ ul {
     top: 8px;
     left: 16px;
   }
+
+  .nav.navbar-nav.navbar-right li a {
+    color: black;
+}
+
+.h1 {
+  font-family:
   
 nav ul li a{
   position: relative;
