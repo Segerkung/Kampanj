@@ -7,22 +7,35 @@ body {
     display: flex-end;
     flex-direction: column;
     background-image: url(wowow.jpg);
+    padding-left: 5%;   
+    padding-top: 10%;
+    padding-right: 5%;
     overflow: scroll;
+    overflow-x: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 95%;
   }
-
-
+ 
 
 nav {
     background-color: white;
-    padding: .4rem;
+    padding: 0.4rem;
     font-size: 1rem;
+    font-family: "lucida sans";
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    width: 100%;
 }  
 
 ul {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    list-style-type: none;    
+    list-style-type: none; 
+    padding-right: 4%;
   }
 
 
@@ -30,15 +43,14 @@ ul {
     position: absolute;
     top: 8px;
     left: 16px;
+    font-family: 'Lucida Sans';
   }
 
   .nav.navbar-nav.navbar-right li a {
     color: black;
 }
 
-.h1 {
-  font-family:
-  
+
 nav ul li a{
   position: relative;
   text-decoration: none;
