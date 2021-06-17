@@ -6,7 +6,7 @@ Vårat syfte med denna uppgift var att designa en kampanj sida och sedan koda de
 
 Bakgrund
 
-Började med att göra header och lägga till bakgrundsbild. Detta skulle se ut ganska exakt dom vårat figma arbete såg ut. Sedan så fixade jag med texten och den blåa färgen som jag sedan fixade i ps då det var lite enklare. Sen så skulle jag fixa subpages men tror ej att det var något man behövde, så skippade det. Annaes gick det ganska bra, och har gjort sidan väldigt lik vårat figma arbete. Skulle fixa logga men kan ej hitta vars vi lade all information och content till sidan, så "logga" fick räcka. Så Förutom det så har det gått ganska bra.
+Började med att göra header och lägga till bakgrundsbild. Detta skulle se ut ganska exakt dom vårat figma arbete såg ut. Sedan så fixade jag med texten och den blåa färgen som jag sedan fixade i ps då det var lite enklare. Sen så skulle jag fixa subpages men tror ej att det var något man behövde, så skippade det. Annaes gick det ganska bra, och har gjort sidan väldigt lik vårat figma arbete. Skulle fixa logga men kan ej hitta vars vi lade all information och content till sidan, så "logga" fick räcka. Så Förutom det så har det gått ganska bra. Gick sist in i validator på både html och css och fixade något enstaka fel som jag fick upp. Så det är testat och klart
 
 Positiva erfarenheter
 
